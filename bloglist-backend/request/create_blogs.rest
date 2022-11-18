@@ -1,0 +1,11 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkVyaWMiLCJpZCI6IjYzNzQ1NjIxZTI3Y2RkNThjZjUzYzY4OCIsImlhdCI6MTY2ODU2ODcwN30.eBot9v4oPPo01W6wKCBo1Qjrmueb57EVEsyDf4F_rjA
+ 
+ {   
+    "title": "trying who sees blogs OOOOWW",
+    "author": "Arnt Dw ",
+    "url": "https://sees-test/",
+    "likes": 0
+    
+  }
